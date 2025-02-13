@@ -9,7 +9,7 @@ Group Members:
 3. 1211112312 Nur Insyirah Iman Binti Mohd Azman
 4. 1211111880 Sofia Batrisyia Binti Mohamad Faris
 
-Steps to Run Project
+Steps to Run Project:
 1. Launch NetBeans
 2. Click on File > Open Project
 3. Select the project directory
