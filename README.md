@@ -1,4 +1,4 @@
-# BusBookingSystem
+# Bus Booking System
 
 Description:
 The is a Java-based application developed using the conceot of Object-Oriented Programming. It includes features for both Admin and Users to manage and handle bus booking efficiently.
