@@ -1,0 +1,60 @@
+2025-02-08 12:42:55 - Bus data exported to bus_data.csv
+2025-02-08 12:45:07 - Error importing bus data: null
+2025-02-08 12:46:02 - Error importing bus data: null
+2025-02-08 13:54:00 - Added new bus: 
+2025-02-08 13:54:08 - Modified bus: 4
+2025-02-08 13:54:16 - Added new bus: 
+2025-02-08 13:55:02 - Modified bus: 4
+2025-02-08 13:55:06 - Deleted bus: 4
+2025-02-08 13:55:15 - Bus data exported to bus_data.csv
+2025-02-08 13:55:56 - Bus data exported to bus_data.csv
+2025-02-08 13:57:37 - Added new bus: 
+2025-02-08 13:58:00 - Bus data exported to bus.csv
+2025-02-08 13:59:53 - Error importing bus data: null
+2025-02-08 14:01:01 - Error importing bus data: null
+2025-02-08 14:15:18 - Error importing data: Invalid date format at line 2: 2/9/2025
+2025-02-08 14:21:45 - Error importing data: Invalid date format at line 2: 2025-02-06
+2025-02-08 14:25:41 - Error importing data: Database error at line 2: Data truncation: Incorrect datetime value: '10:00:00' for column `busbooking`.`buses`.`departureTime` at row 1
+2025-02-08 14:27:25 - Error importing data: Database error at line 2: Data truncation: Incorrect datetime value: '10:00:00' for column `busbooking`.`buses`.`departureTime` at row 1
+2025-02-08 14:28:15 - Error importing data: Invalid date format at line 2: 2025-02-06
+2025-02-08 14:29:43 - Error importing data: Database error at line 2: Data truncation: Incorrect datetime value: '10:00:00' for column `busbooking`.`buses`.`departureTime` at row 1
+2025-02-08 14:35:41 - Error importing data: Invalid time format at line 2: 10:00:00
+2025-02-08 14:36:24 - Error importing data: Invalid time format at line 2: 10:00:00
+2025-02-08 14:45:04 - Added new bus: 
+2025-02-08 14:45:23 - Modified bus: 4
+2025-02-08 15:28:17 - Error importing data: Invalid time format at line 2: 10:00:00
+2025-02-08 15:31:12 - Error importing data: Invalid time format at line 2: 10:00:00
+2025-02-08 15:46:23 - Error importing data: Invalid date/time format at line 2: 2/9/2025 10:00:00
+2025-02-08 15:46:42 - Error importing data: Invalid date/time format at line 2: 2/9/2025 10:00:00
+2025-02-08 15:48:31 - Error importing data: Invalid date/time format at line 2: 2/9/2025 10:00:00
+2025-02-08 15:52:08 - Error importing data: Invalid date/time format at line 2: 2/9/2025 10:00:00
+2025-02-08 15:55:32 - Error importing data: Database error at line 2: Data truncation: Incorrect datetime value: '10:00:00' for column `busbooking`.`buses`.`departureTime` at row 1
+2025-02-09 13:50:43 - Added new bus: 
+2025-02-09 15:28:27 - Added new bus: 
+2025-02-09 15:30:08 - Modified bus: 4
+2025-02-09 15:31:29 - Deleted bus: 4
+2025-02-09 17:04:12 - Bus data exported to bus_data.csv
+2025-02-09 17:10:14 - Error importing data: Invalid date/time format at line 2: 2/14/2025 9:00:00
+2025-02-09 17:16:21 - Error importing data: Database error at line 2: Data truncation: Incorrect datetime value: '09:00:00' for column `busbooking`.`buses`.`departureTime` at row 1
+2025-02-09 17:26:18 - Error importing data: Database error at line 2: No value specified for parameter 4
+2025-02-09 17:57:12 - Bus data imported from bus_data.csv
+2025-02-09 20:39:03 - Added new bus: 
+2025-02-09 22:13:28 - Bus data imported from bus_data.csv
+2025-02-09 22:41:54 - Added new bus: 
+2025-02-09 22:48:05 - Added new bus: 
+2025-02-09 22:52:49 - Modified bus: 1
+2025-02-09 22:58:31 - Deleted bus: 1
+2025-02-09 22:58:43 - Deleted bus: 1
+2025-02-09 23:43:00 - Bus data exported to bus_data.csv
+2025-02-09 23:43:10 - Bus data exported to bus_data.csv
+2025-02-10 00:39:08 - Bus data imported from bus_data.csv
+2025-02-10 01:30:53 - Error importing data: Invalid date/time format at line 2: 2025-02-14 09:00:00
+2025-02-10 21:21:49 - Error importing data: Database error at line 2: Duplicate entry '4' for key 'PRIMARY'
+2025-02-11 23:19:12 - Added new bus: 
+2025-02-12 00:10:12 - Added new bus: 
+2025-02-12 00:10:15 - Modified bus: 1
+2025-02-12 00:10:18 - Deleted bus: 1
+2025-02-12 00:10:25 - Modified bus: 1
+2025-02-14 02:10:21 - Added new bus: 
+2025-02-14 02:10:23 - Modified bus: 1
+2025-02-14 02:10:25 - Deleted bus: 1
